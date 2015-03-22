@@ -1,0 +1,2 @@
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games"
+ARTIFACTORY_HOME="/opt/jfrog/artifactory-powerpack-3.5.2.1"
