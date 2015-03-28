@@ -1,1 +1,2 @@
 deb http://10.0.0.20:8081/artifactory/debian trusty main restricted universe
+deb http://10.0.0.20:8081/artifactory/jenkins binary/
